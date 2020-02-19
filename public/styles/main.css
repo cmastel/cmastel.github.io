@@ -1,0 +1,46 @@
+body {
+  background-color: #191919;
+}
+
+.container {
+  padding: 60px;
+}
+
+.logo {
+  color: #fff;
+  height: 50vh;
+}
+
+.headline {
+  color: #fff;
+  height: 35vh;
+}
+
+.projects {
+  color: #fff;
+}
+
+.ramblings {
+  color: #fff;
+}
+
+.biography {
+  color: #fff;
+}
+
+.list-group-item {
+  background-color: #eeeded;
+}
+
+.footer .link {
+  color: #fff;
+  margin: 1rem;
+}
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 3rem;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */

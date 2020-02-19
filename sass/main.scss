@@ -1,0 +1,60 @@
+
+
+$primary-light: #eeeded;
+$primary-normal: #D8C3A5;
+$primary-dark: #363030;
+$secondary-normal: #E98074;
+$secondary-dark: #E85074;
+
+$background: #191919;
+$text: #fff;
+
+body {
+  background-color: $background;
+}
+
+.container {
+  padding: 60px;
+}
+
+.logo {
+  color: $text;
+  height: 50vh;
+}
+
+.headline {
+  color: $text;
+  height: 35vh;
+}
+
+.projects {
+  color: $text;
+}
+
+.ramblings {
+  color: $text;
+}
+
+.biography {
+  color: $text;
+}
+
+.list-group-item {
+  background-color: $primary-light;
+}
+
+.footer {
+
+  .link {
+    color: $text;
+    margin: 1rem;
+  }
+}
+
+ @media (max-width: 576px) {
+   h1 {
+     font-size: 3.0rem;
+   }
+  }
+
+
