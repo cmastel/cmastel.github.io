@@ -52,9 +52,13 @@ body {
 }
 
  @media (max-width: 576px) {
-   h1 {
-     font-size: 3.0rem;
-   }
+  .logo {
+    height: 40vh;
   }
+
+  h1 {
+    font-size: 3.0rem;
+  }
+}
 
 

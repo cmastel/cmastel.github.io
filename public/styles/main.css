@@ -38,6 +38,10 @@ body {
 }
 
 @media (max-width: 576px) {
+  .logo {
+    height: 40vh;
+  }
+
   h1 {
     font-size: 3rem;
   }
